@@ -1,0 +1,6 @@
+{
+  "name": "The Fluid Motion of the Future - 3D Spatial Gallery",
+  "description": "An immersive 3D spatial WebGL gallery and storefront for the groundbreaking ebook 'The Fluid Motion of the Future'. Explore multi-room exhibits, sample chapters, interactive reading lounge, and the 3D book vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
